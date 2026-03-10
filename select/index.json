@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ふるっぱーりー！",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2026-03-10T15:35:42.478939Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ふるっぱーりー!",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/01_ふるっぱーりー!_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふるっぱーりー!",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_ふるっぱーりー!_FRUITS_ZIPPER.txt"
+    }
+  ]
+}
